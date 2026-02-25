@@ -1,7 +1,0 @@
-services:
-  - type: web
-    name: node-red
-    env: node
-    plan: free
-    buildCommand: "npm install"
-    startCommand: "npm start"
